@@ -2,7 +2,7 @@
 
 This project demonstrates the use of SQL for data analysis and Power BI for visualization. It involves querying and analyzing datasets using SQL to extract meaningful insights, followed by creating interactive and visually appealing dashboards in Power BI. The goal is to transform raw data into actionable insights, showcasing the power of data-driven decision-making.
 
-![image alt]([https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true]
+![image alt](https://github.com/Ahmed-Issa-hub/SQL-Project/blob/main/Dashboard.png?raw=true)
 
 
 ## Key Features:
